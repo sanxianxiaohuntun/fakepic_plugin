@@ -7,8 +7,9 @@
 ### 注意：请不要用于非法用途，否则后果自负。
 
 ## 截图
-![ee6f09b9cbe014cc842687b33707cd70](https://github.com/user-attachments/assets/226e4874-ce21-435d-aa9c-70e91f76455f)
-![175b2284f4646e7e8eef131584edbc6a](https://github.com/user-attachments/assets/1ce1dfdc-b68b-44a9-8cf6-6c0d2fb9e95d)
+![8fe63fb35d78ac6fed6358aea4a0df41](https://github.com/user-attachments/assets/14c73a8a-a86d-4037-9f14-42dcc3858139)
+![acf5968dbd53e4ad57d91be3e09d997e](https://github.com/user-attachments/assets/62e2f617-242a-4049-8025-540e766b8584)
+
 
 
 
